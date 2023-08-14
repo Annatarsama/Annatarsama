@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Annatarsama
-- 👀 I’m interested in front-end developing
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in fullstack developing
+- 🌱 I’m currently learning nodejs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 
